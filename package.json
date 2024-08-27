@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "package-json": "^10.0.0"
+  },
+  "scripts": {
+    "start": "live-server"
+  }
+}
